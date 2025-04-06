@@ -12,4 +12,4 @@ Work is currently underway on full automation of the archiving process, which is
 
 ## Acknowledgements
 
- - [Lera Rosaline's Fic Archive Viewer](ttps://github.com/lerarosalene/fic-archive-viewer)
+ - [Lera Rosaline's Fic Archive Viewer](https://github.com/lerarosalene/fic-archive-viewer)
